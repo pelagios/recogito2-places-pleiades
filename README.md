@@ -16,9 +16,3 @@ changes specifically for use with Recogito:
 | Version | Date       | Notes           |
 |---------|------------|-----------------|
 |1.0      | 2017-04-03 | Initial release |
-
-### buildJSONL.py
-
-The `buildJSONL.py` script is a small Python utility that reads the GZipped Pleiades data dump
-in the `data` folder, adds the MAGIS regions, and outputs a Recogito-compatible [new-line
-delimited JSON](http://jsonlines.org) file.
