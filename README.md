@@ -13,6 +13,6 @@ changes specifically for use with Recogito:
 
 ### Releases
 
-| Version | Date       | Notes           |
-|---------|------------|-----------------|
-|1.0      | 2017-04-03 | Initial release |
+| Version | Date       | Notes           |                                                                                  |
+|---------|------------|-----------------|----------------------------------------------------------------------------------|
+|0.1      | 2017-04-03 | Initial release |[Download](https://github.com/pelagios/recogito2-places-pleiades/releases/tag/0.1)|
