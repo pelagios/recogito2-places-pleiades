@@ -17,8 +17,8 @@ changes specifically for use with Recogito:
 
 ### Attribution & License
 
-Pleiades data is distributed under the terms of a Creative Commons Attribution license (CC-BY).
-Content is governed by the copyrights of the [individual Pleiades
+[Pleiades](http://pleiades.stoa.org) data is distributed under the terms of a Creative Commons
+Attribution license (CC-BY). Content is governed by the copyrights of the [individual Pleiades
 contributors](http://pleiades.stoa.org/credits/).
 
 Digitized regions from the [MAGIS project](http://cgma.depauw.edu/MAGIS/) are made available by
