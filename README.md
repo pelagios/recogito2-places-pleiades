@@ -26,4 +26,4 @@ Pedar Foss for free redistribution (Copyright [AWMC](http://awmc.unc.edu), CC-BY
 from the [Pelagios project](http://commmons.pelagios.org), [Stuart Eve](http://www.dead-mens-eyes.org/)
 has added Pleiades identifiers in 2015 and converted the geometries to Pelagios RDF Format.
 [Jean-Marc Montanier](https://github.com/montanier) has kindly provided [a converter to
-GeoJSON](https://github.com/pelagios/gazetteer-data/tree/master/magis-pleiades-regions).
+GeoJSON](https://github.com/pelagios/magis-pleiades-regions).
