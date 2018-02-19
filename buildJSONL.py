@@ -45,7 +45,7 @@ def convertPlaces(regions):
     ctrMAGIS     = 0
 
     print('Building JSONL file')
-    with gzip.open('data/pleiades-places-20170402.json.gz', 'rb') as f,  open('pleiades.jsonl', 'w') as out:
+    with gzip.open('data/pleiades-places-20180219.json.gz', 'rb') as f,  open('pleiades.jsonl', 'w') as out:
         pleiades = json.loads(f.read().decode('utf8'))
 
         for place in pleiades['@graph']:
