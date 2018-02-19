@@ -13,6 +13,7 @@ changes specifically for use with Recogito:
 
 | Version                                                                     | Date       | # of Records | Notes           |                                                                                  |
 |-----------------------------------------------------------------------------|------------|--------------|----------------|----------------------------------------------------------------------------------|
+|[0.2](https://github.com/pelagios/recogito2-places-pleiades/releases/tag/0.2)| 2018-02-19 | 35,704 | Updated dump    |[pleiades-20180219.jsonl.gz](https://github.com/pelagios/recogito2-places-pleiades/releases/download/0.1/pleiades-20170403.jsonl.gz)|
 |[0.1](https://github.com/pelagios/recogito2-places-pleiades/releases/tag/0.1)| 2017-04-03 | 35,222 | Initial release |[pleiades-20170403.jsonl.gz](https://github.com/pelagios/recogito2-places-pleiades/releases/download/0.1/pleiades-20170403.jsonl.gz)|
 
 ### Attribution & License
